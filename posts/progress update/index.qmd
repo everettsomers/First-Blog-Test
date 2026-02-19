@@ -1,0 +1,8 @@
+---
+title: "Progress Update"
+author: "Everett Mahaffy"
+date: "2026-02-18"
+categories: [news, code, analysis]
+---
+
+Prior to this week's class, I had cleaned my data, ran linear regression models, and created some initial visualizations. Today I spent time refining one of my visualizations with theme elements, color, labels, etc.
